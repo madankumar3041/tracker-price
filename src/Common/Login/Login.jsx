@@ -69,6 +69,7 @@ export function Login(props) {
             class="an"
             type="text"
             name="email_or_username"
+            placeholder="email"
             required
             onChange={handleChange}
           />
@@ -76,6 +77,7 @@ export function Login(props) {
           <input
             type="password"
             name="password"
+             placeholder="password"
             class="an"
             required
             onChange={handleChange}
