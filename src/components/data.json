@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Fortune Refined Sunflower Oil 1 Ltr Pouch",
+    "pincode": "380009",
+    "city": "ahmedabad",
+    "productsku": "123",
+    "companyprice": "189",
+    "mrpprice": "230",
+    "EanId": "274145",
+    "Asin": "B00NYZTGEO",
+    "groferId":"43",
+    "JioId":"490000052",
+    "FlipkartFSN":"EDOET83C9UHNFETC"
+  },
+  {
+    "name": "Fortune Refined Cottonseed Oil 5 Ltr Jar",
+    "pincode": "380009",
+    "city": "ahmedabad",
+    "productsku": "123",
+    "companyprice": "659",
+    "mrpprice": "850",
+    "EanId": "40071744",
+    "Asin": "NA",
+    "groferId":"67595",
+    "JioId":"490022089",
+    "FlipkartFSN":"NA"
+  },
+  {
+    "name": "Fortune Rozana Basmati Rice 5 kg",
+    "pincode": "380009",
+    "city": "ahmedabad",
+    "productsku": "123",
+    "companyprice": "309",
+    "mrpprice": "585",
+    "EanId": "40022617",
+    "Asin": "B08H4L5NNC",
+    "groferId":"73577",
+    "JioId":"491215484",
+    "FlipkartFSN":"RICETDHJWYCYGHHB"
+  },
+  {
+    "name": "Fortune Atta 10 Kg",
+    "pincode": "380009",
+    "city": "ahmedabad",
+    "productsku": "123",
+    "companyprice": "299",
+    "mrpprice": "375",
+    "EanId": "40120175",
+    "Asin": "NA",
+    "groferId":"380157",
+    "JioId":"491417436",
+    "FlipkartFSN":"FLRF8ZJURWFHYHYF"
+  },
+  {
+    "name": "Fortune Chana Besan 500 gm",
+    "pincode": "380009",
+    "city": "ahmedabad",
+    "productsku": "123",
+    "companyprice": "44",
+    "mrpprice": "60",
+    "EanId": "30005416",
+    "Asin": "B085B9YVBL",
+    "groferId":"32966",
+    "JioId":"NA",
+    "FlipkartFSN":"FLRETEFHUERVXNJ7"
+  },
+  {
+    "name": "Fortune Gujarati superfood khichdi 200 gm",
+    "pincode": "380009",
+    "city": "ahmedabad",
+    "productsku": "123",
+    "companyprice": "24",
+    "mrpprice": "49",
+    "EanId": "40191678",
+    "Asin": "B0821W5R8G",
+    "groferId":"405839",
+    "JioId":"590108589",
+    "FlipkartFSN":"RMDFHSG7Y4MYGUDJ"
+  }
+]

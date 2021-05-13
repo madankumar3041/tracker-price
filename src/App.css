@@ -1,0 +1,10 @@
+ .App {
+  text-align: center;
+}
+.footer{
+  background: #2185ce;
+  height: 50px;
+}
+.footer h4{
+  padding: 15px;
+}
